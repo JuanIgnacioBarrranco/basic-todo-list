@@ -9,4 +9,6 @@ I choose to write everything in English to make it more professional:
   I have coded a simple todo app using HTML5, with BOOTSTRAP for the styling, and using JavaScript with Jquery for behaviour. 
 
   
-  Then I deployed it with Vercel Cli 22.0.1
+  Then I deployed it with Vercel Cli 22.0.1 : (https://basic-todo-list-git-main-juanignaciobarrranco.vercel.app)
+  
+  
